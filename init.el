@@ -193,6 +193,8 @@
 ;; Allow users to provide an optional "init-local" containing personal settings
 (require 'init-local nil t)
 
+
+(message "init!")
 (provide 'init)
 
 ;; Local Variables:
